@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المشروع النهائي</string>
+    <string name="jobs">الوظائف</string>
+    <string name="BookMarks">العلامات</string>
+    <string name="Settings">الإعدادات</string>
+    <string name="Profile">الملف الشخصي</string>
+    <string name="help">المساعدة والتعليقات</string>
+    <string name="help_details">ولكن يجب أن أشرح لك كيف بدأ كل هذا</string>
+    <string name="language_preference">تفضيل اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="notification_settings">إعدادات الإشعارات</string>
+    <string name="recieve_general_update_and_notifications">تلقي التحديثات والإشعارات العامة</string>
+    <string name="title">العنوان</string>
+    <string name="share_via">شارك عبر</string>
+    <string name="messenger">ماسنجر</string>
+    <string name="whatsapp">واتساب</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="gmail">جيميل</string>
+    <string name="take_action">اتخاذ إجراء</string>
+    <string name="call">اتصال</string>
+    <string name="send_sms">إرسال رسالة قصيرة</string>
+    <string name="expire_in">ينتهي في :</string>
+    <string name="details">التفاصيل</string>
+    <string name="job_type">نوع الوظيفة</string>
+    <string name="work_field">مجال العمل</string>
+    <string name="country_of_employment">بلد الوظيفة</string>
+    <string name="salary_wage">الراتب / الأجر</string>
+    <string name="required_experience">الخبرة المطلوبة</string>
+    <string name="skills">المهارات</string>
+    <string name="back">رجوع</string>
+    <string name="apply">تقديم الطلب</string>
+    <string name="candidate_requirements">متطلبات المتقدم</string>
+    <string name="nationality">الجنسية</string>
+    <string name="country_residence">بلد الإقامة</string>
+    <string name="gender">الجنس</string>
+    <string name="read_more">اقرأ المزيد</string>
+    <string name="job_description">وصف الوظيفة</string>
+    <string name="no_skills_listed">لا توجد مهارات مدرجة</string>
+    <string name="no_jobs_available">لا توجد وظائف متاحة</string>
+    <string name="mr_mam_visitor">السيد / السيدة الزائر</string>
+    <string name="welcome">مرحبًا بك</string>
+    <string name="fursati">فرصتي</string>
+    <string name="faqs">الأسئلة الشائعة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="job_preference_country">بلد تفضيل الوظيفة</string>
+    <string name="help_feedback">المساعدة والتعليقات</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="but_i_must_explain_to_you_how_all_this_mistaken_idea_of_denouncing_pleasure_and_praising_pain_was_born_and_i_will_give_you_a_complete_account_of_the_system">
+        ولكن يجب أن أشرح لك كيف نشأت فكرة خاطئة عن رفض المتعة ومدح الألم، وسأقدم لك شرحًا كاملاً للنظام.
+    </string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="subject">الموضوع</string>
+    <string name="upload_the_offer_images_videos_up_to_5_files">حمّل صور / فيديو العرض (حتى 5 ملفات)</string>
+    <string name="send">إرسال</string>
+    <string name="type_of_business">نوع النشاط التجاري</string>
+    <string name="no_of_employees">عدد الموظفين</string>
+</resources>
